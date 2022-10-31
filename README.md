@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#specifications">Specifications</a> •
-  <a href="https://fastyride.netlify.app" target="_blank">Demo</a> •
+  <a href="vdtest1.netlify.app" target="_blank">Demo</a> •
 </p>
 
 ## Folder overview
