@@ -1,0 +1,27 @@
+@import '../../styles/_Vars';
+@import '../../styles/_Vars';
+
+.home{
+    width: 100%;
+    @media (min-width: $movile) {
+        max-width: $desktop;
+        margin: 0 auto;
+    }
+    &__title{
+        text-align: center;
+        font-weight: 700;
+        margin: 36px 0;
+        font-size: 20px;
+        padding: 0 10px;
+    }
+    &__spinner{
+        justify-content: center;
+        display: flex;
+        margin: 50px 0;
+    }
+    &__list{
+        margin: 0;
+        padding: 0;
+        padding: 0 10px;
+    }
+}
