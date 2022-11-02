@@ -47,7 +47,7 @@ src/
 | Name | Description |
 | ------ | ------ |
 | npm install | install all dependencies |
-| npm run dev | run server|
+| npm start | run server|
 
 ### Objective
 
